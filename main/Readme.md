@@ -28,3 +28,10 @@ youtube:
 https://www.youtube.com/watch?v=eN1EG4-V3Yg
 https://www.youtube.com/watch?v=4axmcEZTE7M
 https://www.youtube.com/watch?v=Oy71OgKZbOQ
+
+docker push youtube:
+https://www.youtube.com/watch?v=EIHY_CY5J0k
+
+docker tag main-backend:latest elik0ren/simple-flask-repo
+docker images
+docker push elik0ren/simple-flask-repo
