@@ -3,7 +3,9 @@
 ### Very simple Flask app with the Bootstrap.
 
 Youtube [video_1](https://www.youtube.com/watch?v=eN1EG4-V3Yg)
+
 Youtube [video_2](https://www.youtube.com/watch?v=4axmcEZTE7M)
+
 Dockerhub [youtube](https://www.youtube.com/watch?v=EIHY_CY5J0k)
 
 View [App](https://eli-flask-simple-app.herokuapp.com/)
